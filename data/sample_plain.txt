@@ -1,0 +1,3 @@
+Le chiffrement est une technique de cryptographie qui permet de rendre un message illisible pour quiconque ne dispose pas de la clé de déchiffrement. C'est l'un des plus anciens moyens de protéger des informations confidentielles.
+
+Encryption is a cryptography technique that makes a message unreadable to anyone who does not have the decryption key. It is one of the oldest ways to protect confidential information.

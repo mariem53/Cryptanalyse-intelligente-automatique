@@ -1,0 +1,18 @@
+# Dépendances pour le projet de cryptanalyse
+
+# Tests unitaires
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optionnel: Machine Learning (si vous voulez implémenter la partie bonus)
+# scikit-learn>=1.0.0
+# joblib>=1.1.0
+
+# Optionnel: Détection de langue avancée
+# langdetect>=1.0.9
+
+# Optionnel: Traitement NLP
+# nltk>=3.7
+
+# Pas de dépendances externes requises pour la version de base!
+# Le projet fonctionne avec la bibliothèque standard Python uniquement.
