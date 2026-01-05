@@ -58,7 +58,7 @@ python bin/crack_caesar.py --input data/challenge1.txt --top 3
 
 
 ---
-Projet réalisé dans le cadre du cours de Cryptographie  
+Projet réalisé dans le cadre du cours de Sécurité informatique  
 
 ---
 
